@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\testdir\\demoptr\\ptrlibrary\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\testdir\\demoptr\\ptrlibrary\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\testdir\\demoptr\\ptrlibrary\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\testdir\\demoptr\\ptrlibrary\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
